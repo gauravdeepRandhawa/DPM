@@ -1,0 +1,95 @@
+﻿software,COMP501,Information Technology Operations,5,15,NONE,To enable students to apply fundamental IT technical support concepts and practice; and configure and administer systems and applications to meet organisational requirements.,1
+software,COMP502,Fundamentals of Programming and Problem Solving,5,15,NONE,Programming fundamentals.,1
+software,INFO501,Professional Practice,5,15,NONE,Business; Ethics and Morals.,1
+software,INFO502,Business Systems Analysis and Design,5,15,NONE,Analysing businesses and designing solution.,1
+software,COMP503,Introduction to Networks Cisco 1),5,15,NONE,Introduction to networking.,2
+software,COMP504,Operating Systems and systems Support,5,15,NONE,Support for OS.,2
+software,INFO503,Database Principles,5,15,NONE,Principles for Databases.,2
+software,INFO504,Technical Support,5,15,NONE,Support and Help desk.,2
+software,COMP601,Object Oriented Programming,6,15,COMP502,OBJ Best Practices.,3
+software,INFO601,Data-modelling and SQL,6,15,INFO503,Data modelling theory and implementation.,3
+software,MATH601,Mathematics for IT,6,15,NONE,Math for IT.,3
+software,COMP602,Web Development,6,15,COMP502-INFO502,Website Development.,3
+software,INFO602,Business Interpersonal Communications and Technical Writing,6,15,NONE,Business Comms and Practices.,4
+software,COMP603,The Web Environment,6,15,COMP602,The Website Environment.,4
+software,COMP605,Data Structures and Algorithms,6,15,COMP601-MATH601,Big O Notation.,4
+software,MATH602,Mathematics for programming,6,15,MATH601,Math for Programming.,4
+software,INFO701,Project Management Prince 2),7,15,INFO502,Project management.,5
+software,BIZM701,Business Essentials for IT Professionals,7,15,INFO602,Essentials for IT pros.,5
+software,INFO703,Big Data and Analytics,7,15,COMP605-MATH602,Big data analytics.,5
+software,COMP706,Games Development,7,15,NONE,Developing games for multi platform.,5
+software,INFO704,Data-Warehousing and Business Intelligence,7,15,NONE,Data-warehousing and BI.,6
+software,COMP707,Principles of Software Testing,7,15,COMP605,Software testing principles.,6
+software,COMP709,Mobile Apps Development,7,15,COMP601-COMP605-MATH602,Mobile applications dev.,6
+software,COMP708,Software Engineering Project,7,15,COMP605-MATH602,Project/Internship.,6
+media,COMP501,Information Technology Operations,5,15,NONE,To enable students to apply fundamental IT technical support concepts and practice; and configure and administer systems and applications to meet organisational requirements.,1
+media,COMP502,Fundamentals of Programming and Problem Solving,5,15,NONE,Programming fundamentals.,1
+media,INFO501,Professional Practice,5,15,NONE,Business; Ethics and Morals.,1
+media,INFO502,Business Systems Analysis and Design,5,15,NONE,Analysing businesses and designing solution.,1
+media,COMP503,Introduction to Networks Cisco 1),5,15,NONE,Introduction to networking.,2
+media,COMP504,Operating Systems and systems Support,5,15,NONE,Support for OS.,2
+media,INFO503,Database Principles,5,15,NONE,Principles for Databases.,2
+media,INFO504,Technical Support,5,15,NONE,Support and Help desk.,2
+media,COMP601,Object Oriented Programming,6,15,COMP502,OBJ Best Practices.,3
+media,INFO601,Data-modelling and SQL,6,15,INFO503,Data modelling theory and implementation.,3
+media,MATH601,Mathematics for IT,6,15,NONE,Math for IT.,3
+media,COMP602,Web Development,6,15,COMP502-INFO502,Website Development.,3
+media,COMP603​,The Web Environment,6,15,COMP602​,To enable students to examine the working environment and applications that are used in the web industry.,4
+media,COMP606​,Web Programming,6,15,COMP602​,To enable students to gain the in depth knowledge and skills required to be able to write programs in web programming languages that solve various web programming tasks.,4
+media,COMP607​,Visual Effects and Animation,6,15,COMP602​,To enable students to develop the knowledge and skills required to design and develop effective graphics and animation; and to apply various visual effects for static graphics as well as create 3D models and produce 2D and 3D animation.,4
+media,INFO602,Business Interpersonal Communications and Technical Writing,6,15,NONE,Business Comms and Practices.,4
+media,COMP710​,Web Applications Development,7,15,COMP602-COMP606,To enable students to apply practical knowledge of Model View Controller (MVC) frameworks to plan; design and implement web applications. The core focus will be on architecture design and implementation of a web application that will meet a set of functional requirements and user interface requirements; and address business models.,5
+media,INFO702 ​,Cyber Security,7,15,COMP504​-COMP601​,To enable students to investigate computer system attacks and vulnerabilities in relation to operating systems (OS); applications; networking and websites; and investigate the security techniques for protecting a computer system from such attacks.,5
+media,COMP709​,Mobile Applications Development,7,15,COMP601-MATH601,To enable students to design; develop and implement mobile applications on a given platform.,5
+media,INFO709​,Human Computer Interaction​,7,15,NONE,To enable students to understand the supporting theories and principles of user interface design with respect to human computer interaction. They will investigate applications in human computer interaction and apply usability best practices and processes.,5
+media,INFO701,Project Management Prince 2),7,15,INFO502,Project management.,5
+media,INFO708​,Data Visualisation,7,15,COMP606​-COMP607​,To enable students to study and apply visual techniques that transform data into a format efficient for human perception; cognition; and communication; thus allowing for extraction of meaningful information and insight. Students will investigate data visualisation techniques; human visual systems and cognitive perception; and design; construct; and evaluate data visualisations.,6
+media,COMP713​,Web Application Project,7,15,​COMP606-COMP710,To enable students to further develop their knowledge of Web Applications by analysing; designing and implementing a web solution. This module is the Web Application Capstone Project.,6
+media,INFO710​,Industry Placement/Internship​,7,15,NONE,This module will enable students to demonstrate that they can successfully undertake original work that applies the theoretical and practical knowledge gained in other modules in a workplace environment.Enable student to gain real world experience and build and Industry portfolio. Making professional contacts to build future industry networks.,6
+networking,COMP501,Information Technology Operations,5,15,NONE,To enable students to apply fundamental IT technical support concepts and practice; and configure and administer systems and applications to meet organisational requirements.,1
+networking,COMP502,Fundamentals of Programming and Problem Solving,5,15,NONE,Programming fundamentals.,1
+networking,INFO501,Professional Practice,5,15,NONE,Business; Ethics and Morals.,1
+networking,INFO502,Business Systems Analysis and Design,5,15,NONE,Analysing businesses and designing solution.,1
+networking,COMP503,Introduction to Networks Cisco 1),5,15,NONE,Introduction to networking.,2
+networking,COMP504,Operating Systems and systems Support,5,15,NONE,Support for OS.,2
+networking,INFO503,Database Principles,5,15,NONE,Principles for Databases.,2
+networking,INFO504,Technical Support,5,15,NONE,Support and Help desk.,2
+networking,COMP601,Object Oriented Programming,6,15,COMP502,OBJ Best Practices.,3
+networking,INFO601,Data-modelling and SQL,6,15,INFO503,Data modelling theory and implementation.,3
+networking,MATH601,Mathematics for IT,6,15,NONE,Math for IT.,3
+networking,COMP602,Web Development,6,15,COMP502-INFO502,Website Development.,3
+networking,INFO602,Business Interpersonal Communications and Technical Writing,6,15,NONE,Business Comms and Practices.,4
+networking,INFO603​,Systems Administration,6,15,NONE,reliable operation of computer systems; especially multi-user computers; such as servers.,4
+networking,COMP604​,Routing and Switching Essentials,6,15,INFO503​,architecture; components; and operations of routers and switches in a small network.,4
+networking,COMP615,Data Centre Infrastructure,6,15,NONE,extend the traditional data center management function to include all of the physical assets and resources found in the Facilities and IT domains.,4
+networking,COMP701​,Advanced Networking,7,15,INFO603​,specialized research and education community network solution,5
+networking,COMP702​,Scaling Networks,7,15,COMP604​,the architecture; components; and operations of routers and switches in a large and complex network. ,5
+networking,COMP704 ​,Network Security,7,15,COMP604​,policies and practices adopted to prevent and monitor unauthorized access; misuse; modification; or denial of a computer network and network-accessible resources. ,5
+networking,COMP705​,Connecting Networks,7,15,COMP702​,network connections,5
+networking,INFO702​,Cyber Security,7,15,COMP504​-INFO603,protection of computer systems from theft or damage to their hardware; software or electronic data; as well as from disruption or misdirection of the services they provide.,6
+networking,COMP714,Network Engineering Project,7,30,COMP701-COMP704-COMP702,network engineering ,6
+networking,INFO710,Industry Placement/Internship,7,30,COMP701-COMP704-COMP703,industrial internship facility,6
+databases,COMP501,Information Technology Operations,5,15,NONE,To enable students to apply fundamental IT technical support concepts and practice; and configure and administer systems and applications to meet organisational requirements.,1
+databases,COMP502,Fundamentals of Programming and Problem Solving,5,15,NONE,Programming fundamentals.,1
+databases,INFO501,Professional Practice,5,15,NONE,Business; Ethics and Morals.,1
+databases,INFO502,Business Systems Analysis and Design,5,15,NONE,Analysing businesses and designing solution.,1
+databases,COMP503,Introduction to Networks Cisco 1),5,15,NONE,Introduction to networking.,2
+databases,COMP504,Operating Systems and systems Support,5,15,NONE,Support for OS.,2
+databases,INFO503,Database Principles,5,15,NONE,Principles for Databases.,2
+databases,INFO504,Technical Support,5,15,NONE,Support and Help desk.,2
+databases,COMP601,Object Oriented Programming,6,15,COMP502,OBJ Best Practices.,3
+databases,INFO601,Data-modelling and SQL,6,15,INFO503,Data modelling theory and implementation.,3
+databases,MATH601,Mathematics for IT,6,15,NONE,Math for IT.,3
+databases,COMP602,Web Development,6,15,COMP502-INFO502,Website Development.,3
+databases,INFO602,Business Interpersonal Communications and Technical Writing,6,15,NONE,Business Comms and Practices.,4
+databases,COMP605,Data Structure and Algorithms,6,15,COMP601-MATH601,Data Relations and sorting algos.,4
+databases,COMP606,Web Programming,6,15,COMP602,Website building,4
+databases,INFO604,Database Systems,6,15,INFO503,Database Management System,4
+databases,INFO706,Database Front-End Applications,7,15,INFO601-INFO604,User Interface or Application that enables access to data,5
+databases,INFO707,Cloud Server Databases,7,15,INFO601-INFO604,Cloud SQL,5
+databases,INFO703,Big Data and Analytics,7,15,COMP605-MATH601,Handling large data and Analysing,5
+databases,COMP709,Mobile Applications Development,7,15,COMP601-MATH601,Building Applications for Devices,5
+databases,INFO704,Data-Warehousing and Business Intelligence,7,15,INFO601,Data-warehousing and BI.,6
+databases,INFO712,Database Architecture Project,7,30,INFO707-INFO704-INFO706,Project,6
+databases,INFO710,Industry Placement/Internship,7,30,INFO707-INFO704-INFO706,Internship,6
+

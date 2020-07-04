@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFDD00</color>
+    <color name="colorPrimaryDark">#FDD000</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="title_color">#000000</color>
+
+    <!-- color for button style -->
+
+    <color name="gradiant_start_color">#4c84ff</color>
+    <color name="gradiant_end_color">#18a3fe</color>
+
+    <!-- color for tab and screen text -->
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="card_style_color">#EEEEEE</color>
+
+    <!-- wintec colors -->
+    <color name="wintec_yellow">#FFC000</color>
+
+</resources>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">DegreeProgrammeMapper</string>
+    <string name="disclaimer_title">Disclaimer</string>
+
+    <string name="disclaimer_message">The DPM App is a Prototype version of a degree planner only and NOT an official study plan. It is intended that students
+shall use this to get an understanding of the pathways offered and then discuss study plans with a Wintec representative.
+Pathways may change accordingly making older versions redundant – Wintec takes no responsibility of outdated pathways
+or information displayed on the app.</string>
+    <string name="title_activity_navigation__drawer">Navigation_Drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Main Menu</string>
+    <string name="menu_managers">Manager Page</string>
+
+
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_pathway_selection">Pathway Selection</string>
+    <string name="title_activity_about_page">AboutPage</string>
+    <string name="title_activity_web_page_view">WebPageView</string>
+    <string name="title_activity_manager_mode">Manager Mode</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="edit_modules">Edit Modules</string>
+    <string name="edit_students">Edit Students</string>
+    <string name="edit_app_details">Edit App Details</string>
+    <string name="title_activity_edit_students">EditStudents</string>
+
+</resources>
